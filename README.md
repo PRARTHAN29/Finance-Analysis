@@ -85,3 +85,14 @@ Navigation:
      =>Paseo is the most profitable product, as it has a lower manufacturing cost and generates the highest sales among all products.
 
      => Germany shows strong profitability performance, with relatively lower manufacturing costs compared to other countries and higher overall profit contribution.
+
+
+---
+
+## Recommandation
+
+
+
+          =>Focus on scaling production, optimizing supply chain, and increasing marketing efforts for Paseo.
+          =>Consider expanding manufacturing operations in Germany to maximize profit margins.
+
