@@ -78,3 +78,10 @@ Navigation:
 ## 🎯 Goal
 =>To provide clear financial insights to identify profitable products, key markets, and customer segments, supporting informed business decision
 => To provide **clear financial insights** to identify profitable products, key markets, and customer segments, supporting informed business decisions.
+
+
+## Insight
+
+     =>Paseo is the most profitable product, as it has a lower manufacturing cost and generates the highest sales among all products.
+
+     => Germany shows strong profitability performance, with relatively lower manufacturing costs compared to other countries and higher overall profit contribution.
